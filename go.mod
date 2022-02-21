@@ -1,4 +1,4 @@
-module github.com/Niraj/chainbridge-utils
+module github.com/Niraj/klay-utils
 
 go 1.13
 
