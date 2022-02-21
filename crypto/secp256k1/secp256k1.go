@@ -6,7 +6,7 @@ package secp256k1
 import (
 	"crypto/ecdsa"
 
-	"github.com/Niraj/chainbridge-utils/crypto"
+	"github.com/NirajBhattarai/klay-utils/crypto"
 	"github.com/klaytn/klaytn/common"
 	"github.com/klaytn/klaytn/common/hexutil"
 

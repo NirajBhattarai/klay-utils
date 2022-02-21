@@ -10,9 +10,9 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Niraj/chainbridge-utils/crypto"
-	"github.com/Niraj/chainbridge-utils/crypto/secp256k1"
-	"github.com/Niraj/chainbridge-utils/crypto/sr25519"
+	"github.com/NirajBhattarai/klay-utils/crypto"
+	"github.com/NirajBhattarai/klay-utils/crypto/secp256k1"
+	"github.com/NirajBhattarai/klay-utils/crypto/sr25519"
 )
 
 // Decrypt uses AES to decrypt ciphertext with the symmetric key deterministically created from `password`

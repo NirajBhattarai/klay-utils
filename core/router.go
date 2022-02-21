@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/Niraj/chainbridge-utils/msg"
+	"github.com/NirajBhattarai/klay-utils/msg"
 )
 
 // Writer consumes a message and makes the requried on-chain interactions.

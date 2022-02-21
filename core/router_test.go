@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/ChainSafe/log15"
-	"github.com/Niraj/chainbridge-utils/msg"
+	"github.com/NirajBhattarai/klay-utils/msg"
 )
 
 type mockWriter struct {

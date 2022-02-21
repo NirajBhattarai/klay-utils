@@ -12,8 +12,8 @@ import (
 	"time"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/Niraj/chainbridge-utils/core"
-	"github.com/Niraj/chainbridge-utils/msg"
+	"github.com/NirajBhattarai/klay-utils/core"
+	"github.com/NirajBhattarai/klay-utils/msg"
 )
 
 type httpMetricServer struct {

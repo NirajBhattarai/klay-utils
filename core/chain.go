@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/Niraj/chainbridge-utils/metrics/types"
-	"github.com/Niraj/chainbridge-utils/msg"
+	metrics "github.com/NirajBhattarai/klay-utils/metrics/types"
+	"github.com/NirajBhattarai/klay-utils/msg"
 )
 
 type Chain interface {
